@@ -1,0 +1,13 @@
+@nsobid-0948E48778171EE6D5D7A65813ED5FCC
+
+# Animal Crossing New Horizons [01006F8002326000] 2.0.7
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 0.5% Interest Rate & 999,999 Monthly Bell Cap
+@enabled
+039908E0 7B14AE47E17A743F
+00876E10 3D110014
+0087B304 E9478852E901A072C2EEFF17
+@stop
